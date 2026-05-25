@@ -1,0 +1,2 @@
+# leetspeak
+tradutror de leetspeak
